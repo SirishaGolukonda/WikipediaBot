@@ -1,0 +1,6 @@
+streamlit
+wikipedia
+speechrecognition
+pyttsx3
+pyaudio
+requests
